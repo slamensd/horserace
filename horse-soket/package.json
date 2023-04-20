@@ -1,0 +1,16 @@
+{
+  "name": "horseracing-soket",
+  "version": "1.0.0",
+  "description": "horse racing soket bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "4",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "socket.io": "^4.6.0"
+  }
+}
